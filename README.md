@@ -5,3 +5,5 @@ My docker comands
 ```bash
 docker exec -it “container-id” bash
 ```
+### Best practices for Docker with python
+https://mherman.org/presentations/dockercon-2018/#1
